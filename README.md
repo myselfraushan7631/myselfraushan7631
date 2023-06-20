@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ravi Raushan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
+<image allign="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfraushan7631&label=Profile%20views&color=0e75b6&style=flat" alt="myselfraushan7631" /> </p>
 
-<image align="right"alt="coding"width="400"src="https://in.images.search.yahoo.com/search/images;_ylt=Awr1TjJmhY1kSrIl2n67HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj?p=animated+coding+gif&fr=mcafee#id=14&iurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&action=click">
+- 🌱 I’m currently learning **DAS and Java**
 
-
-- 🌱 I’m currently learning **DSA and Java**
-
-![logo](https://in.images.search.yahoo.com/search/images;_ylt=AwrKDvDojo1kN4AmgkK7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=software+devloper+banner&fr2=piv-web&type=E210IN826G0&fr=mcafee#id=9&iurl=https%3A%2F%2Fimage.freepik.com%2Ffree-vector%2Fvector-banner-software-development_107791-3284.jpg&action=click)
-)
-  - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/raushan-kumar-a1a6b7251](https://www.linkedin.com/in/raushan-kumar-a1a6b7251)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/raushan-kumar-a1a6b7251](https://www.linkedin.com/in/raushan-kumar-a1a6b7251)
 
 - 📫 How to reach me **myselfraushan7631**
 
