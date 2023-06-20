@@ -6,7 +6,7 @@
 <image align="right"alt="coding"width="400"src="https://in.images.search.yahoo.com/search/images;_ylt=Awr1TjJmhY1kSrIl2n67HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj?p=animated+coding+gif&fr=mcafee#id=14&iurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&action=click">
 
 
-- 🌱 I’m currently learning **DAS and Java**
+- 🌱 I’m currently learning **DSA and Java**
 
 ![logo](https://in.images.search.yahoo.com/search/images;_ylt=AwrKDvDojo1kN4AmgkK7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=software+devloper+banner&fr2=piv-web&type=E210IN826G0&fr=mcafee#id=9&iurl=https%3A%2F%2Fimage.freepik.com%2Ffree-vector%2Fvector-banner-software-development_107791-3284.jpg&action=click)
 )
