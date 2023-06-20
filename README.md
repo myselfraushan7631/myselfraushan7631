@@ -3,7 +3,7 @@
 <image allign="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfraushan7631&label=Profile%20views&color=0e75b6&style=flat" alt="myselfraushan7631" /> </p>
 
-- 🌱 I’m currently learning **DAS and Java**
+- 🌱 I’m currently learning **DSA and Java**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/raushan-kumar-a1a6b7251](https://www.linkedin.com/in/raushan-kumar-a1a6b7251)
 
