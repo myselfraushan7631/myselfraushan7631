@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Raushan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<image allign="right"alt="coding"width="400"src="https://github.com/myselfraushan7631/myselfraushan7631/assets/131746306/428653fa-426b-4941-84c2-499db3dc95f2)">
+<image allign="right"alt="coding"width="400"src="https://github.com/myselfraushan7631/myselfraushan7631/assets/131746306/ff5c69f4-fa8e-4d17-8ff5-8265b3f2937a)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfraushan7631&label=Profile%20views&color=0e75b6&style=flat" alt="myselfraushan7631" /> </p>
 
 - 🌱 I’m currently learning **DSA and Java**
