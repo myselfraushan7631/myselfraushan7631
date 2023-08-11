@@ -1,4 +1,4 @@
-![logo](![github-header-image](https://github.com/myselfraushan7631/myselfraushan7631/assets/131746306/b0e95ad6-dc6c-4e98-958b-c5b51197baaf)
+![logo](![https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3h1Zy1eY167EoRJ7uAedBU&ust=1691832886979000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi0gtGm1IADFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Ravi Raushan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <image allign="right"alt="coding"width="400"src="https://github.com/myselfraushan7631/myselfraushan7631/assets/131746306/ff5c69f4-fa8e-4d17-8ff5-8265b3f2937a)">
