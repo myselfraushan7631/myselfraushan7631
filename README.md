@@ -4,7 +4,7 @@
 <image allign="right"alt="coding"width="400"src="https://github.com/myselfraushan7631/myselfraushan7631/assets/131746306/ff5c69f4-fa8e-4d17-8ff5-8265b3f2937a)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfraushan7631&label=Profile%20views&color=0e75b6&style=flat" alt="myselfraushan7631" /> </p>
 
-- 🌱 I’m currently learning **DSA with C++**
+- 🌱 I’m currently learning **DSA with Java**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/raushan-kumar-a1a6b7251](https://www.linkedin.com/in/raushan-kumar-a1a6b7251)
 
